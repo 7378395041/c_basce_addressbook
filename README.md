@@ -31,8 +31,8 @@ Features :-
         └── README.md
         
   How to Compile and Run
-        gcc *.c
-        ./a.out
+     gcc *.c
+    ./a.out
 
  
   
